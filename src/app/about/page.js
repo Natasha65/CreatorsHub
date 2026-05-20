@@ -98,7 +98,7 @@ const About = () => {
           initial={{ x: -100, opacity: 0 }}
           whileInView={{ x: 0, opacity: 1 }}
           transition={{ duration: 1 }}
-          src="/assets/ceo.png"   // 👈 apni CEO ki image yahan dalna
+          src="/assets/osama.png"   // 👈 apni CEO ki image yahan dalna
           alt="CEO"
           className="rounded-2xl shadow-lg w-full max-w-sm mx-auto object-cover "
         />
